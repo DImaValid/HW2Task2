@@ -1,0 +1,46 @@
+.father {
+  width: 1000px;
+  height: 400px;
+  border: 5px solid black;
+  display: flex;
+  gap: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 200px;
+
+
+
+}
+
+.son {
+  width: 40%;
+  border: 10px solid red;
+  height: 350px;
+  margin: auto;
+  margin: 15px;
+  text-align: center
+}
+
+.responsivedesign {
+  height: 100px;
+  justify-content: center;
+  display: flex;
+  text-align: center;
+  box-sizing: border-box;
+  padding: 30px;
+  font-size: 30px;
+  font-family: Bahnschrift;
+}
+
+.grandson {
+  box-sizing: border-box;
+  padding: 40px
+}
+
+.button {
+  box-sizing: content-box;
+  padding: 10px;
+  border: 5px solid darkred;
+  margin: 30px
+}
